@@ -14,7 +14,7 @@ This page contains the source code for all of our libraries, SDKs, plug-ins, and
 ### Plugins
  
 * [Salesforce Commerce Cloud](https://github.com/Monext/monext-salesforcecc)
-* [Magento2](https://github.com/Monext/monext-magento-2)
+* [Magento2](https://github.com/Monext/monext-magento2)
 * [Commerce Tools](https://github.com/Monext/monext-commercetools)
 * [Sylius](https://github.com/Monext/monext-sylius)
 * [Prestashop](https://github.com/Monext/monext-prestashop)
