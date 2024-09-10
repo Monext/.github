@@ -25,5 +25,5 @@ This page contains the source code for all of our libraries, SDKs, plug-ins, and
 * [Web Payment Widget](https://docs.monext.fr/display/DT/PW+-+Widget+Integration)
 * [OpenAPI specification](https://api-docs.retail.monext.com/reference/api-file)
 * [Soap API SDK for PHP](https://github.com/Monext/monext-php-sdk)
-* [Soap API SDK for Java](https://github.com/yMonext/monext-java-sdk)
-* [Soap API SDK for .NET](https://github.com/yMonext/monext-dot-net-sdk)
+* [Soap API SDK for Java](https://github.com/Monext/monext-java-sdk)
+* [Soap API SDK for .NET](https://github.com/Monext/monext-dot-net-sdk)
