@@ -5,8 +5,8 @@ This page contains the source code for all of our libraries, SDKs, plug-ins, and
  
 ## Documentation
  
-* [Technical documentation](https://docs.monext.com/display/DT/)
-* [API reference](https://api-docs.retail.monext.fr/reference)
+* [Technical documentation](https://docs.monext.fr/display/DT/)
+* [API reference](https://api-docs.retail.monext.com/reference)
 * [Test cards](https://docs.monext.fr/display/DT/Les+cartes+de+test)
  
 ## Plugins and SDKs
